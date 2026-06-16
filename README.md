@@ -41,9 +41,12 @@ Dataset loaded and inspected.
 - Label Encoding
 - One-Hot Encoding
 - Feature Selection
-
-
-
+### 5. Linear Reggresion 
+- split the data
+- created model
+- predictions
+- comparison of accuracy result
+- 
 ## Results
 As a beginner I know who to build the basic Machine Learning Model 
 
